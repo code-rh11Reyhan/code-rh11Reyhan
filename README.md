@@ -225,14 +225,14 @@ Currently: Sophomore — Year 1 Complete, Year 2 In Progress
 
 | Period | Role | Organisation |
 |:---:|:---|:---|
+| 2025 | **Member** | Creative Computing Society- CCS |
 | 2025 | **ML Lead & Deployment Lead** | Eclipse Hackathon 6.0 — WiSense |
-| 2024 | **ML Lead & Deployment Lead** | Hackathon Team — SkinMax |
-| 2024 | **Executive Board Applicant** | Creative Computing Society (CCS), TIET |
+| 2025 | **ML Lead & Deployment Lead** | Makeathon -8.0 - Pirate Prufen |
 | Ongoing | **Open-Source Contributor** | Independent — GitHub |
 
 </p>
 
-Experience is building. I am one year into a four-year programme, choosing depth over premature padding. The next chapters are being written now.
+Experience is building. I am one year into a four-year programme. The next chapters are being written now.
 
 <br/>
 
