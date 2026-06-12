@@ -4,56 +4,54 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&multiline=false&width=700&lines=AI%2FML+Engineer+in+the+Making;Supervised+%26+Unsupervised+Learning;Computer+Vision+%7C+Deep+Learning;Building+at+the+Intersection+of+Logic+%26+Art;Sophomore+%40+Thapar+Institute+of+Engineering" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=6D5FA6&center=true&vCenter=true&multiline=false&width=700&lines=AI%2FML+Engineer+in+the+Making;Supervised+%26+Unsupervised+Learning;Computer+Vision+%7C+Deep+Learning;Building+at+the+Intersection+of+Logic+%26+Art;Sophomore+%40+Thapar+Institute+of+Engineering" alt="Typing SVG" />
   </a>
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/B.Tech-Computer%20Science%20%26%20Engineering-7C3AED?style=flat-square&logo=graduation-cap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/B.Tech-Computer%20Science%20%26%20Engineering-6D5FA6?style=flat-square&logo=graduation-cap&logoColor=white"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Thapar%20Institute-Patiala%2C%20India-6D28D9?style=flat-square&logo=university&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Thapar%20Institute-Patiala%2C%20India-5A4E8A?style=flat-square&logo=university&logoColor=white"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/JEE%20Advanced-Qualified-5B21B6?style=flat-square&logo=target&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JEE%20Advanced-Qualified-4A3F75?style=flat-square&logo=target&logoColor=white"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/JEE%20Mains-97.38%25ile-4C1D95?style=flat-square&logo=star&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JEE%20Mains-97.38%25ile-3D3566?style=flat-square&logo=star&logoColor=white"/>
 </p>
-
-
 
 <br/>
 
 <p align="center">
   <a href="https://leetcode.com/u/CodeByREYHAN/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-6D28D9?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
+    <img src="https://img.shields.io/badge/LeetCode-5A4E8A?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
   </a>
   &nbsp;
   <a href="https://codeforces.com/profile/Erebus_Reyhan" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-5B21B6?style=for-the-badge&logo=codeforces&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Codeforces-4A3F75?style=for-the-badge&logo=codeforces&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/erebus-reyhan314159/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-3D3566?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
   <a href="mailto:rh11reyhan@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-3B0764?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-2E2850?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://github.com/code-rh11Reyhan" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-2E1065?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-221E3C?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=code-rh11Reyhan&style=flat-square&color=7C3AED&label=Profile+Views"/>
+  <img src="https://komarev.com/ghpvc/?username=code-rh11Reyhan&style=flat-square&color=6D5FA6&label=Profile+Views"/>
   &nbsp;
-  <img src="https://img.shields.io/github/followers/code-rh11Reyhan?style=flat-square&color=6D28D9&label=Followers&logo=github"/>
+  <img src="https://img.shields.io/github/followers/code-rh11Reyhan?style=flat-square&color=5A4E8A&label=Followers&logo=github"/>
   &nbsp;
-  <img src="https://img.shields.io/github/stars/code-rh11Reyhan?style=flat-square&color=5B21B6&label=Stars&logo=github"/>
+  <img src="https://img.shields.io/github/stars/code-rh11Reyhan?style=flat-square&color=4A3F75&label=Stars&logo=github"/>
 </p>
 
 <br/>
@@ -180,10 +178,8 @@ Today I am learning and building at the intersection of **machine learning** and
 
 ## ◈ Featured Projects
 
----
-
 <details>
-<summary><b>WiSense — WiFi-Based RF Object Detection</b> &nbsp; <img src="https://img.shields.io/badge/Eclipse%20Hackathon%206.0-ML%20%26%20Deployment%20Lead-7C3AED?style=flat-square"/></summary>
+<summary><b>WiSense — WiFi-Based RF Object Detection</b> &nbsp; <img src="https://img.shields.io/badge/Eclipse%20Hackathon%206.0-ML%20%26%20Deployment%20Lead-6D5FA6?style=flat-square"/></summary>
 
 <br/>
 
@@ -223,9 +219,9 @@ Currently: Sophomore — Year 1 Complete, Year 2 In Progress
 
 | Period | Role | Organisation |
 |:---:|:---|:---|
-| 2025 | **Member** | Creative Computing Society- CCS |
+| 2025 | **Member** | Creative Computing Society — CCS |
 | 2025 | **ML Lead & Deployment Lead** | Eclipse Hackathon 6.0 — WiSense |
-| 2025 | **ML Lead & Deployment Lead** | Makeathon -8.0 - Pirate Prufen |
+| 2025 | **ML Lead & Deployment Lead** | Makeathon 8.0 — Pirate Prufen |
 | Ongoing | **Open-Source Contributor** | Independent — GitHub |
 
 </p>
@@ -239,15 +235,15 @@ Experience is building. I am one year into a four-year programme. The next chapt
 ## ◈ Skills & Achievements
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Class%20X-96%25-7C3AED?style=flat-square&logo=award&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Class%20X-96%25-6D5FA6?style=flat-square&logo=award&logoColor=white"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Class%20XII-94.4%25-6D28D9?style=flat-square&logo=award&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Class%20XII-94.4%25-5A4E8A?style=flat-square&logo=award&logoColor=white"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/JEE%20Mains-97.38%25ile-5B21B6?style=flat-square&logo=target&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JEE%20Mains-97.38%25ile-4A3F75?style=flat-square&logo=target&logoColor=white"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/JEE%20Advanced-Qualified-4C1D95?style=flat-square&logo=star&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JEE%20Advanced-Qualified-3D3566?style=flat-square&logo=star&logoColor=white"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Student%20of%20the%20Year-School%20Award-3B0764?style=flat-square&logo=medal&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Student%20of%20the%20Year-School%20Award-2E2850?style=flat-square&logo=medal&logoColor=white"/>
 </p>
 
 <p align="center">
@@ -272,11 +268,9 @@ Beyond scores: I approach every domain with the same systematic curiosity — wh
 ## ◈ Certifications
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Deep%20Learning%20Specialization-Coursera-7C3AED?style=flat-square&logo=coursera&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning%20Specialization-Coursera-6D5FA6?style=flat-square&logo=coursera&logoColor=white"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Neural%20Networks%20%26%20Deep%20Learning-deeplearning.ai-6D28D9?style=flat-square&logo=tensorflow&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/More%20Uploading%20Soon-In%20Progress-5B21B6?style=flat-square&logo=clock&logoColor=white"/>
+  <img src="https://img.shields.io/badge/More%20Uploading%20Soon-In%20Progress-4A3F75?style=flat-square&logo=clock&logoColor=white"/>
 </p>
 
 <p align="center">
@@ -296,19 +290,17 @@ Beyond scores: I approach every domain with the same systematic curiosity — wh
 
 <p align="center">
   <a href="https://leetcode.com/u/CodeByREYHAN/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-CodeByREYHAN-7C3AED?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=1a1a2e"/>
+    <img src="https://img.shields.io/badge/LeetCode-CodeByREYHAN-6D5FA6?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=1a1a2e"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://codeforces.com/profile/Erebus_Reyhan" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-Erebus__Reyhan-6D28D9?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=1a1a2e"/>
+    <img src="https://img.shields.io/badge/Codeforces-Erebus__Reyhan-5A4E8A?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=1a1a2e"/>
   </a>
-  &nbsp;&nbsp;
-  
 </p>
 
 <p align="center">
   <a href="https://github.com/code-rh11Reyhan" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-code--rh11Reyhan-4C1D95?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e"/>
+    <img src="https://img.shields.io/badge/GitHub-code--rh11Reyhan-3D3566?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e"/>
   </a>
 </p>
 
@@ -329,13 +321,13 @@ Beyond scores: I approach every domain with the same systematic curiosity — wh
 ## ◈ GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=code-rh11Reyhan&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d1a&title_color=7C3AED&icon_color=7C3AED&text_color=c9b8ff&ring_color=7C3AED"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=code-rh11Reyhan&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d1a&title_color=6D5FA6&icon_color=6D5FA6&text_color=b0a3d4&ring_color=6D5FA6"/>
   &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-rh11Reyhan&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=7C3AED&text_color=c9b8ff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-rh11Reyhan&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=6D5FA6&text_color=b0a3d4"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=code-rh11Reyhan&theme=midnight-purple&hide_border=true&background=0d0d1a&stroke=7C3AED&ring=7C3AED&fire=A855F7&currStreakNum=c9b8ff&sideNums=c9b8ff&currStreakLabel=7C3AED&sideLabels=7C3AED&dates=6b7280" width="60%"/>
+  <img src="https://streak-stats.demolab.com?user=code-rh11Reyhan&theme=midnight-purple&hide_border=true&background=0d0d1a&stroke=6D5FA6&ring=6D5FA6&fire=8B6FBF&currStreakNum=b0a3d4&sideNums=b0a3d4&currStreakLabel=6D5FA6&sideLabels=6D5FA6&dates=6b7280" width="60%"/>
 </p>
 
 <br/>
@@ -355,7 +347,7 @@ Beyond scores: I approach every domain with the same systematic curiosity — wh
 ## ◈ Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=code-rh11Reyhan&bg_color=0d0d1a&color=7C3AED&line=7C3AED&point=A855F7&area=true&area_color=3B0764&hide_border=true&custom_title=Contribution%20Graph" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=code-rh11Reyhan&bg_color=0d0d1a&color=6D5FA6&line=6D5FA6&point=8B6FBF&area=true&area_color=2E2850&hide_border=true&custom_title=Contribution%20Graph" width="95%"/>
 </p>
 
 <br/>
@@ -383,7 +375,7 @@ learning:
 
   computer_vision:
     current:      "OpenCV · MediaPipe pipelines"
-    building_on:  "SkinMax hackathon experience"
+    building_on:  "WiSense & SkinMax hackathon experience"
 
   competitive_programming:
     resource:     "CSES Problem Set"
@@ -409,15 +401,15 @@ exploring:
 
 <p align="center">
   <a href="https://github.com/code-rh11Reyhan" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-code--rh11Reyhan-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-code--rh11Reyhan-6D5FA6?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/erebus-reyhan314159/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-erebus--reyhan314159-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-erebus--reyhan314159-5A4E8A?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
   <a href="mailto:rh11reyhan@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-Reach%20Out-5B21B6?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-Reach%20Out-4A3F75?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
