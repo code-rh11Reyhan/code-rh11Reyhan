@@ -182,23 +182,27 @@ Today I am learning and building at the intersection of **machine learning** and
 
 ## ◈ Featured Projects
 
+---
+
 <details>
-<summary><b>SkinMax — AI-Powered Face Analysis Engine</b> &nbsp; <img src="https://img.shields.io/badge/Hackathon-ML%20Pipeline%20Owner-7C3AED?style=flat-square"/></summary>
+<summary><b>WiSense — WiFi-Based RF Object Detection</b> &nbsp; <img src="https://img.shields.io/badge/Eclipse%20Hackathon%206.0-ML%20%26%20Deployment%20Lead-7C3AED?style=flat-square"/></summary>
 
 <br/>
 
-A full-stack AI face analysis system built for a hackathon under production constraints. Served as sole ML pipeline owner — designed and delivered four independent analysis modules that unified into a single structured JSON output consumed by the web layer.
+A camera-free object detection system that senses presence through WiFi Channel State Information (CSI) signal distortion — no hardware beyond a standard WiFi adapter required. Built in 24 hours at Eclipse Hackathon 6.0. Live demo deployed on Streamlit.
 
 | Attribute | Detail |
 |:---|:---|
-| **Stack** | Python 3.11.9 · OpenCV · MediaPipe · scikit-learn · YOLOv9c · LAB colorspace |
-| **Scale** | Single inference pass combining 4 CV modules |
-| **Performance** | YOLOv9c fine-tuned on ACNE04; SVM classifier on synthetic landmark ratio dataset |
-| **Architecture** | Functional modular pipeline — zero class overhead, minimal dependencies |
-| **Output** | Unified JSON schema: skin tone · face shape · acne grade · recommendation payload |
-| **Repository** | [`sunidhich25/SkinMax`](https://github.com/sunidhich25/SkinMax) → `ML/` directory |
+| **Stack** | Python 3.11 · NumPy · SciPy · OpenCV · scikit-learn · Streamlit |
+| **Pipeline** | CSI signal → Preprocessing → 2D spatial heatmap → Canny edge detection → SVM classifier |
+| **Model** | SVM trained on 29 CSI features; validated against real Widar3.0 hardware-captured data |
+| **Dataset** | Widar3.0 — IEEE Dataport (Zheng et al., IEEE TPAMI 2021) |
+| **Research** | RF-Pose (Zhao et al., CVPR 2018) · WiGest (Abdelnasser et al., INFOCOM 2015) |
+| **Role** | ML Lead & Deployment Lead |
+| **Live Demo** | [wisense.streamlit.app](https://wisense-b4dfjicsgagn3v5coabpaq.streamlit.app/) |
+| **Repository** | [`code-rh11Reyhan/WiSense`](https://github.com/code-rh11Reyhan/WiSense) |
 
-**Engineering decisions:** Chose LAB colorspace over RGB for perceptual uniformity in skin tone analysis. Trained a lightweight SVM on synthetically generated facial landmark ratios to eliminate dataset dependency. Prioritised a flat functional architecture for deployment simplicity — every module callable independently or as a unified pipeline.
+**Engineering decisions:** Chose CSI-based sensing as a non-invasive detection method grounded in peer-reviewed RF research. Used Canny edge detection to extract object boundary features from reconstructed heatmaps before classification. SVM selected for its effectiveness on the 29-feature CSI vector with limited training samples. Streamlit used for rapid, zero-infrastructure deployment of the live demo within the hackathon window.
 
 <br/>
 </details>
@@ -221,6 +225,7 @@ Currently: Sophomore — Year 1 Complete, Year 2 In Progress
 
 | Period | Role | Organisation |
 |:---:|:---|:---|
+| 2025 | **ML Lead & Deployment Lead** | Eclipse Hackathon 6.0 — WiSense |
 | 2024 | **ML Lead & Deployment Lead** | Hackathon Team — SkinMax |
 | 2024 | **Executive Board Applicant** | Creative Computing Society (CCS), TIET |
 | Ongoing | **Open-Source Contributor** | Independent — GitHub |
