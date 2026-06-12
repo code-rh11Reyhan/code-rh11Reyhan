@@ -286,7 +286,6 @@ Beyond scores: I approach every domain with the same systematic curiosity — wh
 | Certificate | Issuer | Status |
 |:---|:---|:---:|
 | **Deep Learning Specialization** | deeplearning.ai / Coursera | ✓ Completed |
-| **Neural Networks & Deep Learning** | deeplearning.ai | ✓ Completed |
 | Additional credentials | Various — uploading in progress | ⏳ Pending |
 
 </p>
@@ -306,9 +305,7 @@ Beyond scores: I approach every domain with the same systematic curiosity — wh
     <img src="https://img.shields.io/badge/Codeforces-Erebus__Reyhan-6D28D9?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=1a1a2e"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-Profile-5B21B6?style=for-the-badge&logo=hackerrank&logoColor=00EA64&labelColor=1a1a2e"/>
-  </a>
+  
 </p>
 
 <p align="center">
@@ -323,7 +320,6 @@ Beyond scores: I approach every domain with the same systematic curiosity — wh
 |:---|:---|:---|
 | **LeetCode** | [CodeByREYHAN](https://leetcode.com/u/CodeByREYHAN/) | Data Structures & Algorithms |
 | **Codeforces** | [Erebus_Reyhan](https://codeforces.com/profile/Erebus_Reyhan) | Competitive Programming |
-| **HackerRank** | — | Problem Solving · Certification |
 | **GitHub** | [code-rh11Reyhan](https://github.com/code-rh11Reyhan) | Open-Source · Project Portfolio |
 
 </p>
