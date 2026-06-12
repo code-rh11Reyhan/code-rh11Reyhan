@@ -20,9 +20,7 @@
   <img src="https://img.shields.io/badge/JEE%20Mains-97.38%25ile-4C1D95?style=flat-square&logo=star&logoColor=white"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Panipat%2C%20Haryana-India-7C3AED?style=flat-square&logo=google-maps&logoColor=white"/>
-</p>
+
 
 <br/>
 
